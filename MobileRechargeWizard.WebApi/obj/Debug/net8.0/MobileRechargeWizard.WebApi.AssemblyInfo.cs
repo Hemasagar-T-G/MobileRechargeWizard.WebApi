@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MobileRechargeWizard.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f40904a973e0a83eb196ccee0304dd1b7cbdbea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b3f328d28bf86ae91e7386d3e7cd34265147062")]
 [assembly: System.Reflection.AssemblyProductAttribute("MobileRechargeWizard.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MobileRechargeWizard.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
